@@ -1,0 +1,42 @@
+{
+  "extensionName": {
+    "message": "PromptShield",
+    "description": "The display name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Protect against unsafe or unwanted prompts by detecting forbidden words.",
+    "description": "The description of the extension"
+  },
+  "popupTitle": {
+    "message": "PromptShield",
+    "description": "Popup window title"
+  },
+  "optionsPageTitle": {
+    "message": "PromptShield Options",
+    "description": "Title for the options page"
+  },
+  "blockedWordsLabel": {
+    "message": "Blocked words",
+    "description": "Label for blocked words input"
+  },
+  "modeWarn": {
+    "message": "Warn only",
+    "description": "Warn mode option"
+  },
+  "modeBlock": {
+    "message": "Block on submit",
+    "description": "Block mode option"
+  },
+  "saveButton": {
+    "message": "Save",
+    "description": "Save button text"
+  },
+  "addButton": {
+    "message": "Add",
+    "description": "Add new word button text"
+  },
+  "optionsLink": {
+    "message": "Options",
+    "description": "Link to options page"
+  }
+}
