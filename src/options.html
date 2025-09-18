@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>PromptShield Options</title>
+    <style>body{font-family:Arial;padding:12px}</style>
+  </head>
+  <body>
+    <h2>Options</h2>
+    <p>Blocked words (comma separated)</p>
+    <textarea id="words" rows="6" style="width:100%"></textarea>
+    <p>
+      <label>Mode:
+        <select id="mode">
+          <option value="warn">Warn only</option>
+          <option value="block">Block on submit</option>
+        </select>
+      </label>
+    </p>
+    <button id="save">Save</button>
+    <script src="options.js"></script>
+  </body>
+</html>
